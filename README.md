@@ -5,4 +5,4 @@ Ceci est un site internet pour faire des experiences.
 
 il fait beau aujourd'hui
 
-ceci est la version "commentaire".
+ceci est la version "main".
